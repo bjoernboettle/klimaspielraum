@@ -1,0 +1,9 @@
+body{font: 16px/1.5 system-ui; margin:0; padding:0; max-width:700px; margin:auto}
+header, main, footer{padding:1.5rem}
+h1{font-size:2rem;margin:0}
+.subtitle{color:#555; margin-top:.5rem}
+.btn{display:inline-block;background:#1f2937;color:#fff;padding:.75rem 1.25rem;
+     border-radius:.5rem;text-decoration:none;font-weight:600}
+.section{margin:2rem 0}
+ul{list-style:square;margin-left:1.2rem}
+footer{border-top:1px solid #ddd;text-align:center;font-size:.875rem;margin-top:3rem}
